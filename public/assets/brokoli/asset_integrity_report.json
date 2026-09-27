@@ -1,0 +1,431 @@
+[
+  {
+    "file": "02_characters/bezelye_dost.png",
+    "size": [
+      78,
+      114
+    ],
+    "opaque_pixels": 5179,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/biber_dost.png",
+    "size": [
+      73,
+      130
+    ],
+    "opaque_pixels": 9208,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/brokoli_kahraman.png",
+    "size": [
+      512,
+      544
+    ],
+    "opaque_pixels": 209524,
+    "components": 12,
+    "largest_component_ratio": 0.9928,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/domates_dost.png",
+    "size": [
+      113,
+      129
+    ],
+    "opaque_pixels": 8138,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/havuc_kiz_arkadas.png",
+    "size": [
+      110,
+      127
+    ],
+    "opaque_pixels": 8198,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/mantar_dost.png",
+    "size": [
+      101,
+      110
+    ],
+    "opaque_pixels": 7901,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/misir_dost.png",
+    "size": [
+      108,
+      130
+    ],
+    "opaque_pixels": 8718,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/patlican_dost.png",
+    "size": [
+      109,
+      120
+    ],
+    "opaque_pixels": 6526,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/salatalik_dost.png",
+    "size": [
+      84,
+      120
+    ],
+    "opaque_pixels": 6064,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "02_characters/sogan_dost.png",
+    "size": [
+      104,
+      127
+    ],
+    "opaque_pixels": 8214,
+    "components": 5,
+    "largest_component_ratio": 0.9883,
+    "status": "OK"
+  },
+  {
+    "file": "03_enemies_bosses/hamburger_krali.png",
+    "size": [
+      238,
+      175
+    ],
+    "opaque_pixels": 29205,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "03_enemies_bosses/hardal.png",
+    "size": [
+      141,
+      175
+    ],
+    "opaque_pixels": 17011,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "03_enemies_bosses/ketcap.png",
+    "size": [
+      140,
+      175
+    ],
+    "opaque_pixels": 12563,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "03_enemies_bosses/mayonez.png",
+    "size": [
+      130,
+      175
+    ],
+    "opaque_pixels": 11036,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/ahsap_kutu.png",
+    "size": [
+      53,
+      76
+    ],
+    "opaque_pixels": 2927,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/altin_para.png",
+    "size": [
+      58,
+      71
+    ],
+    "opaque_pixels": 2949,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/anahtar.png",
+    "size": [
+      62,
+      73
+    ],
+    "opaque_pixels": 2592,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/asansor.png",
+    "size": [
+      58,
+      78
+    ],
+    "opaque_pixels": 2003,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/buton.png",
+    "size": [
+      55,
+      57
+    ],
+    "opaque_pixels": 2120,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/diken.png",
+    "size": [
+      67,
+      66
+    ],
+    "opaque_pixels": 2600,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/hareketli_platform.png",
+    "size": [
+      120,
+      73
+    ],
+    "opaque_pixels": 5703,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/kafes.png",
+    "size": [
+      54,
+      78
+    ],
+    "opaque_pixels": 3164,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/kaldirac.png",
+    "size": [
+      54,
+      72
+    ],
+    "opaque_pixels": 1735,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/kilitli_kapi.png",
+    "size": [
+      71,
+      77
+    ],
+    "opaque_pixels": 4144,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/kirilabilir_kutu.png",
+    "size": [
+      87,
+      75
+    ],
+    "opaque_pixels": 5775,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/kontrol_paneli.png",
+    "size": [
+      82,
+      66
+    ],
+    "opaque_pixels": 4345,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/varil.png",
+    "size": [
+      28,
+      76
+    ],
+    "opaque_pixels": 1469,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/yildiz.png",
+    "size": [
+      70,
+      71
+    ],
+    "opaque_pixels": 3327,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/yon_oku.png",
+    "size": [
+      70,
+      73
+    ],
+    "opaque_pixels": 3059,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/zemin_1.png",
+    "size": [
+      100,
+      59
+    ],
+    "opaque_pixels": 4820,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/zemin_2.png",
+    "size": [
+      98,
+      61
+    ],
+    "opaque_pixels": 4993,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/zemin_3_buz.png",
+    "size": [
+      88,
+      59
+    ],
+    "opaque_pixels": 4517,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/zemin_4_fabrika.png",
+    "size": [
+      79,
+      59
+    ],
+    "opaque_pixels": 3873,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "05_environment/zemin_5_kale.png",
+    "size": [
+      94,
+      59
+    ],
+    "opaque_pixels": 4686,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "07_ui/anahtar_icon.png",
+    "size": [
+      50,
+      64
+    ],
+    "opaque_pixels": 1807,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "07_ui/can_icon.png",
+    "size": [
+      31,
+      41
+    ],
+    "opaque_pixels": 782,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "07_ui/duraklat_icon.png",
+    "size": [
+      33,
+      44
+    ],
+    "opaque_pixels": 1044,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "07_ui/para_icon.png",
+    "size": [
+      55,
+      61
+    ],
+    "opaque_pixels": 2553,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  },
+  {
+    "file": "07_ui/yildiz_icon.png",
+    "size": [
+      50,
+      54
+    ],
+    "opaque_pixels": 1745,
+    "components": 1,
+    "largest_component_ratio": 1.0,
+    "status": "OK"
+  }
+]

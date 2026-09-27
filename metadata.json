@@ -1,0 +1,6 @@
+{
+  "name": "Brokoli Kahraman – Sebzeleri Kurtar!",
+  "description": "Brokoli Adam ile Havuç'u ve kaçırılan tüm meyve-sebzeleri Hamburger Kral ve sos ordusundan kurtarma macerası! 50 bölümlük renkli platform ve bulmaca oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
